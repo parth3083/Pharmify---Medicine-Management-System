@@ -4,6 +4,11 @@
 Pharmify is a comprehensive medicine management system designed to streamline the process of managing medicine inventories, sales, and user interactions. This project utilizes a combination of frontend and backend technologies to create an efficient web-based application.
 <br/>
 <br/>
+Watch Demo at:
+<br/>
+https://youtu.be/7aNFlLsdC68
+<br/>
+<br/>
 Features:
 <br/>
 User Roles: Pharmify supports two types of users: administrators and regular users. Administrators have privileges to add, edit, and manage medicine details, while regular users can view available medicines and make purchases.
